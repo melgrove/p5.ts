@@ -9,6 +9,6 @@ A simple Node.js TypeScript environment for p5.js with modern frontend tooling
 - Use non-minified p5.js version in development for meaningful error messages, use minified version in build
 
 **Vite commands**  
-`npm run dev`: serve the sketch locally with Vite hot reloading on changes to the codebase
-`npm run build`: compile the sketch into a folder which can be served as a static web site
-`npm run preview`: serve the build locally
+- `npm run dev`: serve the sketch locally with Vite hot reloading on changes to the codebase
+- `npm run build`: compile the sketch into a folder which can be served as a static web site
+- `npm run preview`: serve the build locally
